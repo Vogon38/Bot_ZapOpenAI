@@ -21,4 +21,4 @@ Por fim rode o comando abaixo para iniciar o projeto e leia o QR Code com o seu 
 
 ```
 npm start
-```# Bot_ZappyOpenAI
+```
