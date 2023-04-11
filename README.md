@@ -6,7 +6,7 @@ Este projeto é baseado no repositório [zap-gpt](https://github.com/victorharry
 Clone este projeto com o comando:
 
 ``` 
-git clone git@github.com:Vogon38/Bot_ZappyOpenAI.git
+git clone git@github.com:Vogon38/bot-whatsapp-openai.git
 ```
 
 Vá até o arquivo .env.example e renomeie-o para .env e altere os valores necessários para seu funcionamento.
