@@ -1,24 +1,23 @@
-# Descrição
+# Description
+This project is based on the [zap-gpt](https://github.com/victorharry/zap-gpt.git) repository, which uses the JavaScript programming language to generate automated responses in WhatsApp conversations.
 
-Este projeto é baseado no repositório [zap-gpt](https://github.com/victorharry/zap-gpt.git), que utiliza a linguagem de programação JavaScript para gerar respostas automáticas em conversas no WhatsApp.
+# Running the Project
+Clone this project using the following command:
 
-# Rodar o projeto
-Clone este projeto com o comando:
-
-``` 
+```bash
 git clone git@github.com:Vogon38/bot-whatsapp-openai.git
 ```
 
-Vá até o arquivo .env.example e renomeie-o para .env e altere os valores necessários para seu funcionamento.
+Go to the .env.example file, rename it to .env, and update the necessary values for it to work.
 
-Instale agora as dependencias do projeto com o comando:
+Now, install the project dependencies with the command:
 
-```
+```bash
 npm install
 ```
 
-Por fim rode o comando abaixo para iniciar o projeto e leia o QR Code com o seu Whasapp para se conectar com o serviço.
+Finally, run the command below to start the project and scan the QR Code with your WhatsApp to connect to the service.
 
-```
+```bash
 npm start
 ```
